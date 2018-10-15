@@ -31,3 +31,9 @@ Temporary Items
 
 # NPM
 node_modules
+
+# Firebase
+firebase-debug.log
+
+# Project
+dist

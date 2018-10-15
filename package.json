@@ -4,7 +4,8 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "webpack",
+    "deploy": "npm run build && firebase deploy",
+    "build": "webpack --mode production",
     "start": "webpack-dev-server --open"
   },
   "keywords": [],
