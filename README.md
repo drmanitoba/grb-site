@@ -62,10 +62,13 @@ Variables seen here, mapping to an augmented 4th scale:
 ## FAQ
 
 > Who are you?
+
 I'm Avery! You can learn more about me at the site linked above.
 
 > What is giant robot bee?
+
 It's a combo reference to Invader Zim and Mega Man. If that means nothing to you, I recommend Google.
 
 > Why didn't you use React/Angular/Vue/etc?
+
 Don't be like this.
