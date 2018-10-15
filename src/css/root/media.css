@@ -1,0 +1,5 @@
+@custom-media --phone-portrait-up (min-width: 0px);
+@custom-media --phone-landscape-up (min-width: 500px);
+@custom-media --tablet-portrait-up (min-width: 750px);
+@custom-media --tablet-landscape-up (min-width: 900px);
+@custom-media --desktop-up (min-width: 1200px);

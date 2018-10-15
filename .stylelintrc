@@ -1,0 +1,23 @@
+{
+    "extends": "stylelint-config-standard",
+    "rules": {
+        "at-rule-no-unknown": [
+            true,
+            {
+                "ignoreAtRules": [
+                    "extends",
+                    "ignores"
+                ]
+            }
+        ],
+        "indentation": 4,
+        "number-leading-zero": null,
+        "unit-whitelist": [
+            "%",
+            "fr",
+            "em",
+            "rem",
+            "s"
+        ]
+    }
+}

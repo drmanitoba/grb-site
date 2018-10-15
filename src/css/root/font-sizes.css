@@ -1,0 +1,10 @@
+:root {
+    --step-up-4: 3.998em;
+    --step-up-3: 2.827em;
+    --step-up-2: 1.999em;
+    --step-up-1: 1.414em;
+    --step-down-1: 0.707em;
+    --step-down-2: 0.5em;
+    --step-down-3: 0.354em;
+    --step-down-4: 0.25em;
+}
