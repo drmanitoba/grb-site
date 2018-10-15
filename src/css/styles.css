@@ -133,6 +133,10 @@ a {
 
     & .Content__summary {
         background: var(--color-yellow);
+
+        & a {
+            text-decoration-style: dotted;
+        }
     }
 
     & .Content__contact {
