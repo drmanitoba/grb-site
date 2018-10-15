@@ -1,6 +1,6 @@
 # Personal Site of Avery Barron | @giantrobotbee
 
-Live site here: [giantrobotbee.com](giantrobotbee.com)
+Live site here: [giantrobotbee.com](https://giantrobotbee.com)
 
 ## Responsive Design
 This site is optimized to be mobile first. Breakpoints start at 0px and go up, using `min-width` as is standard practice.
