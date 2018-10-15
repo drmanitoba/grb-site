@@ -86,6 +86,10 @@ a {
             font-weight: 200;
             line-height: 1.5;
         }
+
+        & a {
+            text-decoration-style: dotted;
+        }
     }
 }
 
